@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "g:\\My Drive\\IUT\\TP\\java\\paquetage_class\\ihmgui.jar",
+        "g:\\My Drive\\IUT\\TP\\java\\paquetage_class\\iut.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
