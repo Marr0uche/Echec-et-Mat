@@ -1,1 +1,3 @@
 Un TP mélangeant IHM et Dev Objet. Durant ce TP j'ai du réaliser de multiple classe pour gérer les différents déplacement des pions. J'ai beaucoup aimé ce TP car j'aime bien créer des jeux  et ce jeu était parfait pour commencer. Ce n'était pas très dur mais pas simple non plus. Nous avons eu quelques problèmes comme une pièce qui disparait et qui réapparaissait et aussi des pièces que mangeait des mauvaise pièces. Malgré tout les problèmes qu'on a eu, notre jeu est fonctionnel maintenant et c'était un des meilleurs TP pour moi.
+
+Nous avons utilisé des classes Metier, IHM et un controleur pour gérer les deux.
